@@ -2,7 +2,7 @@
 
 A Python reference implementation of the **Agent Deliberation Journal (ADJ)** specification — the append-only journal format that records every step of a multi-agent deliberation: when it opened, what proposals were emitted, what falsifications happened, when it closed, and what outcome was eventually observed.
 
-This library is one of several reference implementations ([C#](https://git.marketally.com/ai-manifests/adj-ref-lib), [TypeScript](https://git.marketally.com/ai-manifests/adj-ref-lib-ts)) of the same spec. The spec itself is at [adp-manifest.dev](https://adp-manifest.dev) and is the source of truth; this library implements what the spec says.
+This library is one of several reference implementations ([C#](https://git.marketally.com/ai-manifests/adj-ref-lib-csharp), [TypeScript](https://git.marketally.com/ai-manifests/adj-ref-lib-ts)) of the same spec. The spec itself is at [adp-manifest.dev](https://adp-manifest.dev) and is the source of truth; this library implements what the spec says.
 
 Zero runtime dependencies. Requires Python 3.10+.
 
