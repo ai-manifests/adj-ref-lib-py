@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/adj-manifest.svg?label=PyPI)](https://pypi.org/project/adj-manifest/)
 [![Downloads](https://img.shields.io/pypi/dm/adj-manifest.svg)](https://pypi.org/project/adj-manifest/)
-[![Python](https://img.shields.io/pypi/pyversions/adj-manifest.svg)](https://pypi.org/project/adj-manifest/)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://pypi.org/project/adj-manifest/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Spec](https://img.shields.io/badge/spec-adj--manifest.dev-informational)](https://adj-manifest.dev)
 
