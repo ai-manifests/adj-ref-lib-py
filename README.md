@@ -1,5 +1,11 @@
 # adj-manifest
 
+[![PyPI](https://img.shields.io/pypi/v/adj-manifest.svg?label=PyPI)](https://pypi.org/project/adj-manifest/)
+[![Downloads](https://img.shields.io/pypi/dm/adj-manifest.svg)](https://pypi.org/project/adj-manifest/)
+[![Python](https://img.shields.io/pypi/pyversions/adj-manifest.svg)](https://pypi.org/project/adj-manifest/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Spec](https://img.shields.io/badge/spec-adj--manifest.dev-informational)](https://adj-manifest.dev)
+
 A Python reference implementation of the **Agent Deliberation Journal (ADJ)** specification — the append-only journal format that records every step of a multi-agent deliberation: when it opened, what proposals were emitted, what falsifications happened, when it closed, and what outcome was eventually observed.
 
 This library is one of several reference implementations ([C#](https://github.com/ai-manifests/adj-ref-lib-csharp), [TypeScript](https://github.com/ai-manifests/adj-ref-lib-ts)) of the same spec. The spec itself is at [adp-manifest.dev](https://adp-manifest.dev) and is the source of truth; this library implements what the spec says.
